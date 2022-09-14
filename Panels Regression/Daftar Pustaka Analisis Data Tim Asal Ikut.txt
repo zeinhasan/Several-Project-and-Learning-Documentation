@@ -1,0 +1,8 @@
+Daftar Pustaka
+
+[1] Badi H. Baltagi. (2001). Econometric Analysis of Panel Data. Chichester: Wiley
+[2] Greene, W.H. (2000). Econometric Analysis, 4th ed. New Jersey: Prentice Hall
+[3] Hsiao, C. H. (2005). Analysis of Panel Data, 2nd ed. Cape Town: Cambridge University Press
+[4] Park, H. M. (2010). Practical Guides to Panel Data Analysis. Jepang: International University of Japan
+[5] Rosadi, D. (2011). Analisis Ekonometrika & Runtun Waktu Terapan dengan R, Aplikasinya untuk bidang ekonomi, bisnis, dan keuangan. Yogyakarta: ANDI
+[6] Zulfikar, R. (2018). Estimation Model and Selection Method Of Panel Data Regression. Banjarmasin: Universitas Islam Kalimantan MAB Banjarmasin

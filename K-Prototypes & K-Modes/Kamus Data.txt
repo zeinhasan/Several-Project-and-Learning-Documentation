@@ -1,0 +1,15 @@
+Kamus Data
+Nama : Nama Siswa/Mahasiswa
+Gender : Jenis Kelamin
+Bahasa, Inggris, TIK, Matematika, Fisika, Biologi, Geografi, Sosiologi, Antropologi :  Rata-Rata Nilai ketika sekolah
+Extra_Kurikuler : Ekskul yang diikuti ketika sekolah
+Tinggal_Dengen : Tempat Siswa/Mahasiswa tinggal
+Status_Kerja : Apakah siswa/mahasiswa bekerja atau tidak
+Biaya : Biaya kuliah
+Tgl_Daftar_Kuliah : Tahun daftar kuliah
+Alamat : Alamat siswa/mahasiswa
+UKM : Jenis UKM yang diikuti ketika kuliah
+Organisasi_Kampus : Apakah mahasiswa mengikuti organisasi kampus
+Lama_Kuliah : Lama mahasiswa menyelesaikan kuliah (dalam tahun)
+
+NA: Tidak ada data

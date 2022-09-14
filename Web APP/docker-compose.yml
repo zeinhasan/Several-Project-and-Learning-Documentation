@@ -1,0 +1,15 @@
+version: '3.9.10'
+
+services:
+  laprak_uas:
+    build: ./webapp
+    image: laprak_uas
+    container_name: laprak_uas
+    command: python /app/app.py
+    environment:
+      - FLASK_ENV=production
+
+    ports:
+      - '5007:5007'
+    volumes:
+      - D:/Kuliah/Praktikum Komputasi Statistika 2/UAS Jadi/webapp:/app
