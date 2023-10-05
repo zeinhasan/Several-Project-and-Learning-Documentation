@@ -1,22 +1,13 @@
 import os
+from random import randint
 
-def makeCommits(days):
-    if days < 1:
-        os.system('git push')
-    else:
-        dates = f"{days-1} days ago"
-        with open('data.txt', 'a') as file:
-            file.write(f'{dates} <- this was the commit for the day!!\n')
-        # staging 
-        os.system('git add data.txt')
-        # commit 
-        os.system('git commit --date="'+ dates +'" -m "Add Material!"')
-        return days * makeCommits(days-1)
+for i in range(1,365*2):
 
-makeCommits(3) #
-# Heheheheh Reforestation
-# Reforestation12S
-# Test1234
-# Path: main.py
-# Path: main.py
-# Path: main.py
+    for j in range (0, randint(1,10)):
+        d = str(i) + " days ago"
+        with open("data.txt", "a") as myfile:
+            file.write(d)
+        os.system("git add . ")
+        os.system("git commit --date='" + d + "' -m 'commit'")
+
+os.system("git push -u origin master")
